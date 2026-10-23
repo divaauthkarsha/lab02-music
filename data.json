@@ -1,0 +1,12 @@
+{
+    "project_title": "My Music Listening Habits",
+    "description": "How many minutes I listened to each music genre over 6 weeks.",
+    "weekly_listening": [
+        {"week": "Week 1", "Pop": 120, "Hip Hop": 200, "R&B": 60, "Rock": 30, "Classical": 15},
+        {"week": "Week 2", "Pop": 95,  "Hip Hop": 180, "R&B": 80, "Rock": 45, "Classical": 60},
+        {"week": "Week 3", "Pop": 140, "Hip Hop": 210, "R&B": 75, "Rock": 20, "Classical": 90},
+        {"week": "Week 4", "Pop": 110, "Hip Hop": 250, "R&B": 90, "Rock": 50, "Classical": 20},
+        {"week": "Week 5", "Pop": 160, "Hip Hop": 190, "R&B": 70, "Rock": 40, "Classical": 10},
+        {"week": "Week 6", "Pop": 130, "Hip Hop": 220, "R&B": 85, "Rock": 35, "Classical": 45}
+    ]
+}
